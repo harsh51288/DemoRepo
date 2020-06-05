@@ -28,3 +28,7 @@ print(sumOfNumber(n: 5))
 func sayHello(){
     print("hello")
 }
+
+func doSome(){
+    print("hello")
+}
