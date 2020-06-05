@@ -11,4 +11,16 @@ func recursion(n: Int){
     print(num)
 }
 
-recursion(n: 5)
+//recursion(n: 5)
+
+
+
+func sumOfNumber(n: Int)-> Int{
+    if n <= 1{
+        return 1
+    }
+    
+    return  n + sumOfNumber(n: n-1)
+}
+
+print(sumOfNumber(n: 5))
