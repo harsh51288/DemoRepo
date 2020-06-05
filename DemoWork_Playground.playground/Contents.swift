@@ -24,3 +24,7 @@ func sumOfNumber(n: Int)-> Int{
 }
 
 print(sumOfNumber(n: 5))
+
+func sayHello(){
+    
+}
