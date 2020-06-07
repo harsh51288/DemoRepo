@@ -33,6 +33,4 @@ func doSome(){
     print("hello")
 }
 
-func abc(){
-    
-}
+
