@@ -32,3 +32,7 @@ func sayHello(){
 func doSome(){
     print("hello")
 }
+
+func abc(){
+    
+}
